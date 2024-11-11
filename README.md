@@ -1,5 +1,7 @@
 # Car Dealer App
 
+![Sreenshot](https://github.com/seggaz/car-dealer-app/blob/master/image.png)
+
 Car Dealer App is a simple Next.js application that allows users to filter vehicles by make and model year. The app consists of two main pages: a **Filter Page** where users can select a vehicle make and model year, and a **Result Page** where the filtered car models are displayed.
 
 ## Features:
